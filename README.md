@@ -56,8 +56,10 @@ Power Query (ETL),
 Data modeling,
 DAX calculations,
 Interactive dashboards,
-Custom and standard visuals
-
-Excel
+Custom and standard visuals,
+Excel,
 Initial dataset review,
 Data structure verification
+
+## Output of the Dashboard
+(https://github.com/skanaujia0609-code/Data-Professional-Survey-Breakdown-Power-BI-Project-/blob/main/Survey_Dashboard.PNG)
